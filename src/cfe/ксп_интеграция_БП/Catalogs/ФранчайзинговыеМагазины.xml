@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="3ecf344f-1310-4a9e-a9f8-b8a957687855">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ФранчайзинговыеМагазины" category="Object">
+				<xr:TypeId>308e8e6e-d319-4094-bf84-b44d29b14527</xr:TypeId>
+				<xr:ValueId>c3998ef8-292a-4ca0-8d2d-ff70cc07d418</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ФранчайзинговыеМагазины" category="Ref">
+				<xr:TypeId>279d1233-1910-4146-82eb-46a1dc6f1fb9</xr:TypeId>
+				<xr:ValueId>97511211-d232-4f72-b75e-f02975885478</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ФранчайзинговыеМагазины" category="Selection">
+				<xr:TypeId>f7c455e6-f14b-4f63-a041-94eea0d669a1</xr:TypeId>
+				<xr:ValueId>dc85ba69-fc89-435f-86c0-ba8e755042da</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ФранчайзинговыеМагазины" category="List">
+				<xr:TypeId>822226ad-7a08-42f3-a82b-94b321fa2a38</xr:TypeId>
+				<xr:ValueId>0b3bfc54-65e1-4923-9ebe-af34e2c6b6e5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ФранчайзинговыеМагазины" category="Manager">
+				<xr:TypeId>faf1906d-2347-4feb-8f10-92b82bfbba11</xr:TypeId>
+				<xr:ValueId>42e1a3d0-cfe8-462d-823c-e6250e8c2d57</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ФранчайзинговыеМагазины</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1ce75b36-11ec-49c4-816b-49030e0f2ee3</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

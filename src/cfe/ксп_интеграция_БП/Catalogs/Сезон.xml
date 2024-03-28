@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="f309d1d4-c3fd-4e6c-8d7f-8f42e3343d19">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Сезон" category="Object">
+				<xr:TypeId>7831b11b-9f2d-45a3-b834-d53a82973389</xr:TypeId>
+				<xr:ValueId>bfabe448-6dbc-4f2a-9445-290f6964224e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Сезон" category="Ref">
+				<xr:TypeId>e9820248-9332-404d-8844-a2aad86b661d</xr:TypeId>
+				<xr:ValueId>1522d848-462d-4edc-975e-4c019d401773</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Сезон" category="Selection">
+				<xr:TypeId>0785ab8a-18a8-4f0e-b51c-ded1cb593623</xr:TypeId>
+				<xr:ValueId>5c5d9f9d-c1f5-4957-9ac3-1336d41df926</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Сезон" category="List">
+				<xr:TypeId>a5f7427e-c524-4dcd-ab4a-c4137a264dbb</xr:TypeId>
+				<xr:ValueId>9511f2a1-417c-4307-bf10-0cdcc040f6f3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Сезон" category="Manager">
+				<xr:TypeId>c23855a7-0147-41a9-938b-d38b92be5c7f</xr:TypeId>
+				<xr:ValueId>cf4db188-101d-4793-a4ee-f5744f4ad6e6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Сезон</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9fbf5e8d-1459-4349-b889-b67be29aec28</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

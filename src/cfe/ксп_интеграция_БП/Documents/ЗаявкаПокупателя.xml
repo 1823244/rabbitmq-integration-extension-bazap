@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="3be59d83-2728-4bd5-acd5-d59447b607ea">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗаявкаПокупателя" category="Object">
+				<xr:TypeId>482ade58-9ef6-45d5-b3cb-265758f7b924</xr:TypeId>
+				<xr:ValueId>70948c2c-7e7b-44b1-827a-5d85fa500e3d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗаявкаПокупателя" category="Ref">
+				<xr:TypeId>69d6c80a-67e3-45eb-9986-df18146cdc13</xr:TypeId>
+				<xr:ValueId>5fd5b189-8e9e-404a-8287-cdb3db7be52c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗаявкаПокупателя" category="Selection">
+				<xr:TypeId>56411c74-0ab3-44ce-b299-872a8899f61c</xr:TypeId>
+				<xr:ValueId>9f1f3935-e784-4d0b-9d58-5f4a721490f7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗаявкаПокупателя" category="List">
+				<xr:TypeId>dff1e74c-9d39-47bd-8a07-39703a873151</xr:TypeId>
+				<xr:ValueId>d1cb655f-7609-450d-973a-9871a57dc6cf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗаявкаПокупателя" category="Manager">
+				<xr:TypeId>6dd82540-20ca-4c99-bb32-1990f95df8cd</xr:TypeId>
+				<xr:ValueId>39fc24ff-8f52-4714-9c62-0c29ca5974b5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗаявкаПокупателя</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b3ba0284-76bb-4327-b35d-ebbee9ce9431</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
