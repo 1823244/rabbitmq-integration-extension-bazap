@@ -1,58 +1,56 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<Configuration uuid="5f51f319-8684-41ee-8cc6-081387f38c6e">
+	<Configuration uuid="acc24920-f935-41af-bae2-d01d046db124">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>2ac1aafc-26ce-4b87-add1-72a1af4041e2</xr:ObjectId>
+				<xr:ObjectId>5980558c-eaf5-4dbb-9268-5b447a33169b</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>b45220a1-5825-47bb-b67c-b6ea9f3e0978</xr:ObjectId>
+				<xr:ObjectId>fc715f52-dcaf-4b92-abd9-3131c557a63b</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>c94cf84e-cdfa-4a03-a7a2-ba3adc3cd2a0</xr:ObjectId>
+				<xr:ObjectId>a5f3499c-08ff-4278-b7ac-16099324f2e4</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>6e188eb8-26b9-4e53-9136-c5d72dae09af</xr:ObjectId>
+				<xr:ObjectId>980ddf39-9806-4fab-9982-60f2f358bf23</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>2c68db67-25c3-4562-94cf-4c263cc9da40</xr:ObjectId>
+				<xr:ObjectId>710676b6-fb44-4b70-980f-42fbe55823ab</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>686d02d3-a3bd-4294-bb85-8fe5990f6494</xr:ObjectId>
+				<xr:ObjectId>816eb1a1-d888-4ce7-bcfe-5997b890731a</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>0c69073d-db5f-4783-9e2a-9c3762822e50</xr:ObjectId>
+				<xr:ObjectId>de3581b8-f554-4332-bac9-4e65489ebf0a</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<Name>ксп_интеграция_БП</Name>
+			<Name>КСП</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Ксп интеграция БП</v8:content>
+					<v8:content>КСП</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<ConfigurationExtensionPurpose>AddOn</ConfigurationExtensionPurpose>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
 			<NamePrefix>ксп_</NamePrefix>
-			<ConfigurationExtensionCompatibilityMode>Version8_3_17</ConfigurationExtensionCompatibilityMode>
+			<ConfigurationExtensionCompatibilityMode>Version8_3_12</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
 			<UsePurposes>
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PlatformApplication</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<DefaultRoles>
-				<xr:Item xsi:type="xr:MDObjectRef">Role.ксп_ОсновнаяРоль</xr:Item>
-			</DefaultRoles>
+			<DefaultRoles/>
 			<Vendor/>
 			<Version/>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
@@ -65,15 +63,15 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>ксп_Интеграции</Subsystem>
 			<Role>ксп_ОсновнаяРоль</Role>
 			<CommonModule>ксп_ЭкспортСлужебный</CommonModule>
 			<CommonModule>ксп_ИмпортСлужебный</CommonModule>
 			<CommonModule>ксп_ПодпискиНаСобытие</CommonModule>
 			<CommonModule>ксп_Блокировки</CommonModule>
 			<CommonModule>ксп_ЭкспортСлужебныйПовтИсп</CommonModule>
-			<ExchangePlan>ксп_интеграция_с_ЕРП</ExchangePlan>
+			<EventSubscription>ксп_РегистрацияДокументаКВыгрузке</EventSubscription>
 			<CommandGroup>ксп_УзелОбменаЕРП</CommandGroup>
-			<Constant>ксп_УзелОбменаЕРП</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>ТипыЦенНоменклатуры</Catalog>
@@ -86,6 +84,7 @@
 			<Document>УстановкаПорядковыхНомеровНоменклатурыДляПоказа</Document>
 			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
+			<InformationRegister>ксп_ПланОбменаЕРП</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
