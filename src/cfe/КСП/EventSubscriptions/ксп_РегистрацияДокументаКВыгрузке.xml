@@ -12,7 +12,6 @@
 			<Comment/>
 			<Source>
 				<v8:Type>cfg:DocumentObject.ЗаявкаПокупателя</v8:Type>
-				<v8:Type>cfg:DocumentObject.УстановкаПорядковыхНомеровНоменклатурыДляПоказа</v8:Type>
 			</Source>
 			<Event>OnWrite</Event>
 			<Handler>CommonModule.ксп_ПодпискиНаСобытие.ксп_ПриЗаписиДокументаПриЗаписи</Handler>

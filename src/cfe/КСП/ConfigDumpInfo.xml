@@ -11,19 +11,18 @@
 		<Metadata name="Catalog.ФранчайзинговыеМагазины" id="3ecf344f-1310-4a9e-a9f8-b8a957687855" configVersion="00c786928fb53a238a5b7bf2c0a076a430b30fef"/>
 		<Metadata name="CommandGroup.ксп_УзелОбменаЕРП" id="6d638095-4616-4b38-927a-79fa0b8fcc4e" configVersion="b037b74ef6ce017b540eb333cdc3ac578fad1e29"/>
 		<Metadata name="CommonModule.ксп_Блокировки" id="c5fbc643-a932-47e6-ba82-422658a2885b" configVersion="231314025d4a19176552d53812ad841ff262a1f7"/>
-		<Metadata name="CommonModule.ксп_Блокировки.Module" id="c5fbc643-a932-47e6-ba82-422658a2885b.0" configVersion="817c47c17fa368129fd79faaa50666dc7e8ffde1"/>
+		<Metadata name="CommonModule.ксп_Блокировки.Module" id="c5fbc643-a932-47e6-ba82-422658a2885b.0" configVersion="4a8f3f8811beca878ec548401d0279a707bd83bd"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="92e89a6e-c994-4005-9048-07de8cc6642d" configVersion="743898bc6aa920d1428a9a7a5e25f5a0d92e1434"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="92e89a6e-c994-4005-9048-07de8cc6642d.0" configVersion="db33078b4fd1262f9ca2476973370307a349d485"/>
 		<Metadata name="CommonModule.ксп_ПодпискиНаСобытие" id="1f9b58bc-1be6-400f-bd98-735fbbdf3a14" configVersion="f5bb3e1a44798d93255ef6f71892b39689056b6a"/>
 		<Metadata name="CommonModule.ксп_ПодпискиНаСобытие.Module" id="1f9b58bc-1be6-400f-bd98-735fbbdf3a14.0" configVersion="3bfcae9ad1c3050b70e20c5483aa86d44020d67b"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный" id="52b557aa-e833-40bd-845e-5e57e90e23cd" configVersion="4bf2808c44ccf9d0aa06070fcbdfa8da00d1b85f"/>
-		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="52b557aa-e833-40bd-845e-5e57e90e23cd.0" configVersion="4a4fb77fca0d3b5809aa46d51cd82e9fb9cce6e9"/>
+		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="52b557aa-e833-40bd-845e-5e57e90e23cd.0" configVersion="f99400aeeccc1773894ca82af38fe8a17d77a641"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="464aff82-b0a5-44e7-9e60-d540900aba94" configVersion="afa0bf671d0e92b0172b0906a75653a94b035b71"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="464aff82-b0a5-44e7-9e60-d540900aba94.0" configVersion="ac741c28d9c7eedddc3dacc7edc31dd1da507152"/>
-		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="964b3ad7f01e495674961f527610fcf0c0192df3"/>
+		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="13a5453a41969aba54fc1348719f1151a27e6fea"/>
 		<Metadata name="Document.ЗаявкаПокупателя" id="3be59d83-2728-4bd5-acd5-d59447b607ea" configVersion="71adfe32d4e0515961dc0fde1679091b66ed2354"/>
-		<Metadata name="Document.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" id="89306ce5-321d-4bea-8244-e03d905322cc" configVersion="3452e4976abe440c01bfade62ceb99c2e340f58f"/>
-		<Metadata name="EventSubscription.ксп_РегистрацияДокументаКВыгрузке" id="0d8f0314-40ca-4ed4-88eb-26af74db3cbf" configVersion="be1b25f0182aa376ad91d544bac8beea760c07d7"/>
+		<Metadata name="EventSubscription.ксп_РегистрацияДокументаКВыгрузке" id="0d8f0314-40ca-4ed4-88eb-26af74db3cbf" configVersion="035d06feb9e81399497a620298036000cbc09868"/>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен" id="b9e4479b-4aee-4767-8c50-12813ea5792d" configVersion="f6a377b303e7f5c2f727929840bba84994ffc406">
 			<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен.Resource.Наименование" id="3ea74e22-1200-4c65-8257-afc96d8b0be7"/>
 			<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен.Dimension.GUID" id="546cc22b-41ec-4ba1-a027-3524473b4ffb"/>
@@ -38,12 +37,11 @@
 			<Metadata name="InformationRegister.ксп_МэппингСправочникОрганизации.Dimension.GUID" id="b2f752c3-b17b-492b-9d9a-016754625099"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникОрганизации.ManagerModule" id="597d61e6-6710-4b22-86ac-5e98d122d76e.2" configVersion="43357b5a8bfbf78f0d4c056562ddee819402bb36"/>
-		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП" id="28403844-7735-470d-8078-22707b3ae27b" configVersion="1760ae212a227f0f31e5309373f8ffa4bdf081d1">
+		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП" id="28403844-7735-470d-8078-22707b3ae27b" configVersion="efa2359139fc2ee52875a73f7093f8f1e71d3720">
 			<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.Dimension.ОбъектДляВыгрузки" id="5dc4e991-b0c5-441c-93c2-ef8ccec88a4e"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.ManagerModule" id="28403844-7735-470d-8078-22707b3ae27b.2" configVersion="875350976845b33c3669428bf6f18608f3e3b090"/>
+		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.ManagerModule" id="28403844-7735-470d-8078-22707b3ae27b.2" configVersion="0344197bf341eaec79dadbed2b70fdece478a589"/>
 		<Metadata name="Language.Русский" id="d49834e9-1ae5-486f-926a-dc125de8e349" configVersion="b0159a6b1f97d205fb51fc9c58eeb9d99fdbf1f1"/>
-		<Metadata name="Role.ксп_ОсновнаяРоль" id="a6cb6786-ef24-4a50-8aee-a8204f9cd126" configVersion="7654953ee1dddbbd920a303c62e43593e9025064"/>
 		<Metadata name="Subsystem.ксп_Интеграции" id="de48d1e2-2d50-4188-af63-e2977ba4e5e2" configVersion="40ca739776bde64673d53ca05daa5985ee5e0c58"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
