@@ -78,10 +78,13 @@
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Catalog>ФранчайзинговыеМагазины</Catalog>
 			<Catalog>Сезон</Catalog>
+			<Catalog>Проекты</Catalog>
 			<Document>ЗаявкаПокупателя</Document>
 			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
 			<InformationRegister>ксп_ПланОбменаЕРП</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникПроекты</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникПодразделения</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

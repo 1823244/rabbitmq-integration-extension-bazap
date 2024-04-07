@@ -19,6 +19,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ПланОбменаЕРП</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникВидыЦен</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникОрганизации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникПроекты</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
