@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="db8ee2c8-7639-4d6f-89d7-39d7fe70dadd">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" category="Object">
+				<xr:TypeId>76409f9e-f6b9-4420-9365-0d731cc795cf</xr:TypeId>
+				<xr:ValueId>4e5df5eb-89ac-4aae-a0a0-8de78fed8780</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" category="Ref">
+				<xr:TypeId>2b7f21fa-dbb1-462e-90f8-68ad51fa0d4b</xr:TypeId>
+				<xr:ValueId>aec4474e-698b-4d5f-897d-f3cf634ca280</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" category="Selection">
+				<xr:TypeId>4850a37d-88ed-4843-8c11-ec5521b6ffaa</xr:TypeId>
+				<xr:ValueId>7a5d3a90-4b0c-4162-9792-71df35919b6a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" category="List">
+				<xr:TypeId>51de5a93-86cb-44b9-957c-ffaf182f96f2</xr:TypeId>
+				<xr:ValueId>d46b41e9-56ae-4f63-bbf7-64ce5d03af95</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" category="Manager">
+				<xr:TypeId>d5a0d123-4d6c-4fa1-b32a-784ce12094e3</xr:TypeId>
+				<xr:ValueId>cddb03c5-7901-4d9c-8fbe-3007ead694cd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УстановкаПорядковыхНомеровНоменклатурыДляПоказа</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b66a92eb-80a6-4af5-aafb-fcaebb1971f3</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

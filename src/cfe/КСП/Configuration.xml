@@ -81,12 +81,16 @@
 			<Catalog>Проекты</Catalog>
 			<Catalog>Коллекция</Catalog>
 			<Document>ЗаявкаПокупателя</Document>
+			<Document>ПланЗаказаКлиентовОпта</Document>
+			<Document>УстановкаПорядковыхНомеровНоменклатурыДляПоказа</Document>
+			<Document>УстановкаЦенНоменклатуры</Document>
 			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
 			<InformationRegister>ксп_ПланОбменаЕРП</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникПроекты</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникПодразделения</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникКоллекции</InformationRegister>
+			<InformationRegister>ксп_СоответствиеДокументовПланПродаж</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
