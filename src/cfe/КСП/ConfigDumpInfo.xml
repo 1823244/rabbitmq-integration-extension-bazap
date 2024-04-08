@@ -79,7 +79,7 @@
 			<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаПорядковыхНомеров.Resource.НомерДокументаЕРП" id="f30adc6e-a053-4615-a3c1-dc49f5726342"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаПорядковыхНомеров.ManagerModule" id="e0546cf7-6109-4b9c-ad05-a439034b77e1.2" configVersion="417d3484e8ee85788ef45f5e4e9bbdcf6aa97177"/>
-		<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен" id="5000dadb-73cf-496c-b51b-c0fd2aed69ee" configVersion="ca828440896ef4c1fdb06d7909a6c614c8356ede">
+		<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен" id="5000dadb-73cf-496c-b51b-c0fd2aed69ee" configVersion="b41162fdee7aa756dd7a928312d523ca764f7568">
 			<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.Resource.ГУИДЕРП" id="8eb6855c-3b2d-4df4-bfd0-4b0798b740b7"/>
 			<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.Resource.НомерДокументаЕРП" id="b226dbc0-0520-4571-8a23-ffbb75b883e8"/>
 			<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.Dimension.ДокументСсылка" id="b614dbd6-9b47-4ef0-a23b-4091f29a562f"/>
