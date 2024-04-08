@@ -91,6 +91,7 @@
 			<InformationRegister>ксп_МэппингСправочникПодразделения</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникКоллекции</InformationRegister>
 			<InformationRegister>ксп_СоответствиеДокументовПланПродаж</InformationRegister>
+			<InformationRegister>ксп_СоответствиеДокументовУстановкаПорядковыхНомеров</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
