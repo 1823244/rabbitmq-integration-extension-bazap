@@ -2,6 +2,7 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="4c058a01-59b6-49b6-94ca-46d31f5a40b7" configVersion="b74b01e5d71cee232794457e2b835b6023f945c8"/>
+		<Metadata name="Catalog.Коллекция" id="48ab6e06-2d15-40c4-90e1-0ba60c4010b6" configVersion="18fe9e88c52efdab02f8892f35fe58cec39e1351"/>
 		<Metadata name="Catalog.Контрагенты" id="2e252986-36d1-4c17-bc3b-08afd3dc6b61" configVersion="5427da2739e32274bda7d6fe979751497055ad5e"/>
 		<Metadata name="Catalog.Номенклатура" id="8c5d81d6-0982-4b7e-b52b-c120e123b79d" configVersion="3a736ce8fdafeda8822e21f373944ea8bf51d8c3"/>
 		<Metadata name="Catalog.Организации" id="2e061ce8-5d0f-4cc2-a9e1-5f592e221882" configVersion="35e3f1eef8971cc64f0b08e206f79c53a8472b72"/>
@@ -21,7 +22,7 @@
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="52b557aa-e833-40bd-845e-5e57e90e23cd.0" configVersion="f99400aeeccc1773894ca82af38fe8a17d77a641"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="464aff82-b0a5-44e7-9e60-d540900aba94" configVersion="afa0bf671d0e92b0172b0906a75653a94b035b71"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="464aff82-b0a5-44e7-9e60-d540900aba94.0" configVersion="ac741c28d9c7eedddc3dacc7edc31dd1da507152"/>
-		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="6c8eb498b02e4c5d4ebfe1436131473ae1b16e78"/>
+		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="475246fd66971494a96e5a83a27ec5f9b924f176"/>
 		<Metadata name="Document.ЗаявкаПокупателя" id="3be59d83-2728-4bd5-acd5-d59447b607ea" configVersion="71adfe32d4e0515961dc0fde1679091b66ed2354"/>
 		<Metadata name="EventSubscription.ксп_РегистрацияДокументаКВыгрузке" id="0d8f0314-40ca-4ed4-88eb-26af74db3cbf" configVersion="035d06feb9e81399497a620298036000cbc09868"/>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен" id="b9e4479b-4aee-4767-8c50-12813ea5792d" configVersion="f6a377b303e7f5c2f727929840bba84994ffc406">
@@ -31,6 +32,13 @@
 			<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен.Resource.ВидЦены" id="e1e6c73d-bf17-4a09-b238-0316db2f220d"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен.ManagerModule" id="b9e4479b-4aee-4767-8c50-12813ea5792d.2" configVersion="466099fd82e4bf61b65e591d5c54a68ae3a82076"/>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникКоллекции" id="1516540f-622f-4ac5-90ab-35146d12904e" configVersion="c118fbf3ce9153c087612b96d3d6d7ff8466fdd0">
+			<Metadata name="InformationRegister.ксп_МэппингСправочникКоллекции.Resource.Наименование" id="50ae3936-2256-4754-8623-22f8f730ff50"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникКоллекции.Dimension.ВнешняяСистема" id="7e097c87-d178-4fae-8dbe-6320d3dd9fe7"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникКоллекции.Dimension.GUID" id="817e4dc8-bf39-4777-8c60-b9a8b454498c"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникКоллекции.Resource.Коллекция" id="d363a916-ab31-4f86-a832-220c8faaeaa0"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникКоллекции.ManagerModule" id="1516540f-622f-4ac5-90ab-35146d12904e.2" configVersion="8a1ee5b32b6f38f2b83f66e2cdea372e558d1e4f"/>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникОрганизации" id="597d61e6-6710-4b22-86ac-5e98d122d76e" configVersion="5544186a0687ad118d0b718ac31fabc749d7bcf1">
 			<Metadata name="InformationRegister.ксп_МэппингСправочникОрганизации.Dimension.ВнешняяСистема" id="3665937b-d3b0-4343-a3ec-e5463f2378d3"/>
 			<Metadata name="InformationRegister.ксп_МэппингСправочникОрганизации.Resource.Организация" id="3c02b4a1-7723-4618-a2b0-4e01a51be254"/>
@@ -57,6 +65,6 @@
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.ManagerModule" id="28403844-7735-470d-8078-22707b3ae27b.2" configVersion="0344197bf341eaec79dadbed2b70fdece478a589"/>
 		<Metadata name="Language.Русский" id="d49834e9-1ae5-486f-926a-dc125de8e349" configVersion="b0159a6b1f97d205fb51fc9c58eeb9d99fdbf1f1"/>
-		<Metadata name="Subsystem.ксп_Интеграции" id="de48d1e2-2d50-4188-af63-e2977ba4e5e2" configVersion="83f216973528f219cafb36ce23920ae5412a835f"/>
+		<Metadata name="Subsystem.ксп_Интеграции" id="de48d1e2-2d50-4188-af63-e2977ba4e5e2" configVersion="deada1e9f68cd61d7c2f54c0adb0d64c05a4f805"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
