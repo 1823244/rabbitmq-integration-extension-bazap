@@ -22,7 +22,7 @@
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="52b557aa-e833-40bd-845e-5e57e90e23cd.0" configVersion="f99400aeeccc1773894ca82af38fe8a17d77a641"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="464aff82-b0a5-44e7-9e60-d540900aba94" configVersion="afa0bf671d0e92b0172b0906a75653a94b035b71"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="464aff82-b0a5-44e7-9e60-d540900aba94.0" configVersion="ac741c28d9c7eedddc3dacc7edc31dd1da507152"/>
-		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="a3d810216cbf545c1efd5c226ab7632f3078a2c5"/>
+		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="bf3f06262f860a1915c8f1dc74c751829bc95da6"/>
 		<Metadata name="Document.ЗаявкаПокупателя" id="3be59d83-2728-4bd5-acd5-d59447b607ea" configVersion="71adfe32d4e0515961dc0fde1679091b66ed2354"/>
 		<Metadata name="Document.ПланЗаказаКлиентовОпта" id="3e63f1ea-5b00-40e0-b9fd-a64d7c4de374" configVersion="d80089e1015f43f2afa34d0277706ea42578c8da"/>
 		<Metadata name="Document.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" id="db8ee2c8-7639-4d6f-89d7-39d7fe70dadd" configVersion="0744f9011a5741880b6c2f88c14a8bbcdce85eab"/>
@@ -67,7 +67,7 @@
 			<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.Dimension.ОбъектДляВыгрузки" id="5dc4e991-b0c5-441c-93c2-ef8ccec88a4e"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.ManagerModule" id="28403844-7735-470d-8078-22707b3ae27b.2" configVersion="0344197bf341eaec79dadbed2b70fdece478a589"/>
-		<Metadata name="InformationRegister.ксп_СоответствиеДокументовПланПродаж" id="2a71565c-4c53-43f1-bff7-203dfe022b1d" configVersion="ff4302aa009ab0aef54aaea484081787fb25ecd7">
+		<Metadata name="InformationRegister.ксп_СоответствиеДокументовПланПродаж" id="2a71565c-4c53-43f1-bff7-203dfe022b1d" configVersion="9d2246d06a6ddb8ba1c85770eff72d5743f77359">
 			<Metadata name="InformationRegister.ксп_СоответствиеДокументовПланПродаж.Resource.НомерДокументаЕРП" id="0635495b-4b76-4808-9830-1dccd800f3c4"/>
 			<Metadata name="InformationRegister.ксп_СоответствиеДокументовПланПродаж.Resource.ГУИДЕРП" id="936db7c8-2aaa-4ec8-b346-ec25d94b259d"/>
 			<Metadata name="InformationRegister.ксп_СоответствиеДокументовПланПродаж.Dimension.ДокументСсылка" id="a7eff656-fff9-42f8-a6ef-1b15872def65"/>
@@ -79,6 +79,12 @@
 			<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаПорядковыхНомеров.Resource.НомерДокументаЕРП" id="f30adc6e-a053-4615-a3c1-dc49f5726342"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаПорядковыхНомеров.ManagerModule" id="e0546cf7-6109-4b9c-ad05-a439034b77e1.2" configVersion="417d3484e8ee85788ef45f5e4e9bbdcf6aa97177"/>
+		<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен" id="5000dadb-73cf-496c-b51b-c0fd2aed69ee" configVersion="ca828440896ef4c1fdb06d7909a6c614c8356ede">
+			<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.Resource.ГУИДЕРП" id="8eb6855c-3b2d-4df4-bfd0-4b0798b740b7"/>
+			<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.Resource.НомерДокументаЕРП" id="b226dbc0-0520-4571-8a23-ffbb75b883e8"/>
+			<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.Dimension.ДокументСсылка" id="b614dbd6-9b47-4ef0-a23b-4091f29a562f"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.ManagerModule" id="5000dadb-73cf-496c-b51b-c0fd2aed69ee.2" configVersion="fc852010f3b08756a16175009974ddbc002ee414"/>
 		<Metadata name="Language.Русский" id="d49834e9-1ae5-486f-926a-dc125de8e349" configVersion="b0159a6b1f97d205fb51fc9c58eeb9d99fdbf1f1"/>
 		<Metadata name="Subsystem.ксп_Интеграции" id="de48d1e2-2d50-4188-af63-e2977ba4e5e2" configVersion="cc43f705cf379f59a698f0d6b616c709e1e39759"/>
 	</ConfigVersions>
