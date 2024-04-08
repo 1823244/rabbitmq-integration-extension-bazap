@@ -22,6 +22,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникКоллекции</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_СоответствиеДокументовПланПродаж</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_СоответствиеДокументовУстановкаПорядковыхНомеров</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_СоответствиеДокументовУстановкаЦен</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

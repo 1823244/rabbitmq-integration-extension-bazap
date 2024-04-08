@@ -86,6 +86,6 @@
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.ManagerModule" id="5000dadb-73cf-496c-b51b-c0fd2aed69ee.2" configVersion="fc852010f3b08756a16175009974ddbc002ee414"/>
 		<Metadata name="Language.Русский" id="d49834e9-1ae5-486f-926a-dc125de8e349" configVersion="b0159a6b1f97d205fb51fc9c58eeb9d99fdbf1f1"/>
-		<Metadata name="Subsystem.ксп_Интеграции" id="de48d1e2-2d50-4188-af63-e2977ba4e5e2" configVersion="cc43f705cf379f59a698f0d6b616c709e1e39759"/>
+		<Metadata name="Subsystem.ксп_Интеграции" id="de48d1e2-2d50-4188-af63-e2977ba4e5e2" configVersion="873ba693a8f27b6a95d596a9fbee93172ede3272"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
