@@ -94,6 +94,7 @@
 			<InformationRegister>ксп_СоответствиеДокументовУстановкаПорядковыхНомеров</InformationRegister>
 			<InformationRegister>ксп_СоответствиеДокументовУстановкаЦен</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникСезоны</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникКонтрагенты</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

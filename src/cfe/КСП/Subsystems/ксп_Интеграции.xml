@@ -24,6 +24,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_СоответствиеДокументовУстановкаПорядковыхНомеров</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_СоответствиеДокументовУстановкаЦен</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникСезоны</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникКонтрагенты</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
