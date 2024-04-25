@@ -42,7 +42,7 @@
 			<Metadata name="InformationRegister.ксп_МэппингСправочникКоллекции.Resource.Коллекция" id="d363a916-ab31-4f86-a832-220c8faaeaa0"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникКоллекции.ManagerModule" id="1516540f-622f-4ac5-90ab-35146d12904e.2" configVersion="8a1ee5b32b6f38f2b83f66e2cdea372e558d1e4f"/>
-		<Metadata name="InformationRegister.ксп_МэппингСправочникКонтрагенты" id="e7ffcfc8-ac32-40f5-a626-d147a39a189b" configVersion="c942378b6d146c7f4aee0fb7764a298099187ae5">
+		<Metadata name="InformationRegister.ксп_МэппингСправочникКонтрагенты" id="e7ffcfc8-ac32-40f5-a626-d147a39a189b" configVersion="7fc3adae85614320255134b5d9ec4945a90cd631">
 			<Metadata name="InformationRegister.ксп_МэппингСправочникКонтрагенты.Dimension.GUID" id="0f90acf8-be95-4e34-9114-92e1a85dc549"/>
 			<Metadata name="InformationRegister.ксп_МэппингСправочникКонтрагенты.Resource.Контрагент" id="189356f5-6e18-4b93-ae24-686978dbccc5"/>
 			<Metadata name="InformationRegister.ксп_МэппингСправочникКонтрагенты.Resource.Наименование" id="3e647c81-3665-40b5-975c-a220e385f091"/>
