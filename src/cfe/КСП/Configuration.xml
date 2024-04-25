@@ -93,6 +93,7 @@
 			<InformationRegister>ксп_СоответствиеДокументовПланПродаж</InformationRegister>
 			<InformationRegister>ксп_СоответствиеДокументовУстановкаПорядковыхНомеров</InformationRegister>
 			<InformationRegister>ксп_СоответствиеДокументовУстановкаЦен</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникСезоны</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

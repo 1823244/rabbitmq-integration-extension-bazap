@@ -22,7 +22,7 @@
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="52b557aa-e833-40bd-845e-5e57e90e23cd.0" configVersion="f99400aeeccc1773894ca82af38fe8a17d77a641"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="464aff82-b0a5-44e7-9e60-d540900aba94" configVersion="afa0bf671d0e92b0172b0906a75653a94b035b71"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="464aff82-b0a5-44e7-9e60-d540900aba94.0" configVersion="ac741c28d9c7eedddc3dacc7edc31dd1da507152"/>
-		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="bf3f06262f860a1915c8f1dc74c751829bc95da6"/>
+		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="7f0d12d01aeb093658ed77a742c6b7e42c701b9d"/>
 		<Metadata name="Document.ЗаявкаПокупателя" id="3be59d83-2728-4bd5-acd5-d59447b607ea" configVersion="71adfe32d4e0515961dc0fde1679091b66ed2354"/>
 		<Metadata name="Document.ПланЗаказаКлиентовОпта" id="3e63f1ea-5b00-40e0-b9fd-a64d7c4de374" configVersion="d80089e1015f43f2afa34d0277706ea42578c8da"/>
 		<Metadata name="Document.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" id="db8ee2c8-7639-4d6f-89d7-39d7fe70dadd" configVersion="0744f9011a5741880b6c2f88c14a8bbcdce85eab"/>
@@ -62,7 +62,14 @@
 			<Metadata name="InformationRegister.ксп_МэппингСправочникПроекты.Resource.Проект" id="b7e021d4-cca1-49dc-a49c-ec99f7a2c030"/>
 			<Metadata name="InformationRegister.ксп_МэппингСправочникПроекты.Resource.Наименование" id="b8a9a9ce-897f-4dd2-8c06-472e5d09abe9"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_МэппингСправочникПроекты.ManagerModule" id="81b43722-4ba4-4b9d-9a99-5cd40b1d71ea.2" configVersion="ff03a13a8c591fc5d2dd01eb64d75dec2ebf978c"/>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникПроекты.ManagerModule" id="81b43722-4ba4-4b9d-9a99-5cd40b1d71ea.2" configVersion="337a8a7c99097427fb00bde590014b419da6c5a0"/>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникСезоны" id="2fe84883-2080-49a5-a952-c7b7f5440afc" configVersion="4707d1fb870f23b1137ba529445a744ce636897c">
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСезоны.Resource.Сезон" id="1e81b7ad-05db-4bc1-b1b3-9b24c7c55f5c"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСезоны.Dimension.GUID" id="4fea72e0-1480-4058-b8cb-620ace9a404c"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСезоны.Resource.Наименование" id="62b4fbed-2ebc-4e1a-b2a6-2c731ab0f5e9"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСезоны.Dimension.ВнешняяСистема" id="ba8c9cf2-fef2-4034-b627-2c3e7ee0ff98"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникСезоны.ManagerModule" id="2fe84883-2080-49a5-a952-c7b7f5440afc.2" configVersion="c1c644df63b9acd77895755c0bb15d6709fb08e9"/>
 		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП" id="28403844-7735-470d-8078-22707b3ae27b" configVersion="efa2359139fc2ee52875a73f7093f8f1e71d3720">
 			<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.Dimension.ОбъектДляВыгрузки" id="5dc4e991-b0c5-441c-93c2-ef8ccec88a4e"/>
 		</Metadata>
@@ -86,6 +93,6 @@
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_СоответствиеДокументовУстановкаЦен.ManagerModule" id="5000dadb-73cf-496c-b51b-c0fd2aed69ee.2" configVersion="fc852010f3b08756a16175009974ddbc002ee414"/>
 		<Metadata name="Language.Русский" id="d49834e9-1ae5-486f-926a-dc125de8e349" configVersion="b0159a6b1f97d205fb51fc9c58eeb9d99fdbf1f1"/>
-		<Metadata name="Subsystem.ксп_Интеграции" id="de48d1e2-2d50-4188-af63-e2977ba4e5e2" configVersion="873ba693a8f27b6a95d596a9fbee93172ede3272"/>
+		<Metadata name="Subsystem.ксп_Интеграции" id="de48d1e2-2d50-4188-af63-e2977ba4e5e2" configVersion="81beb0db73a35cebb856c96d84fe513dd92a4156"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
