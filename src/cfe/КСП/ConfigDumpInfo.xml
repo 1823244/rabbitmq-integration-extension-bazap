@@ -17,17 +17,18 @@
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="92e89a6e-c994-4005-9048-07de8cc6642d" configVersion="743898bc6aa920d1428a9a7a5e25f5a0d92e1434"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="92e89a6e-c994-4005-9048-07de8cc6642d.0" configVersion="f673c16a888eeffa30d1632e103a0cf53dedb315"/>
 		<Metadata name="CommonModule.ксп_ПодпискиНаСобытие" id="1f9b58bc-1be6-400f-bd98-735fbbdf3a14" configVersion="f5bb3e1a44798d93255ef6f71892b39689056b6a"/>
-		<Metadata name="CommonModule.ксп_ПодпискиНаСобытие.Module" id="1f9b58bc-1be6-400f-bd98-735fbbdf3a14.0" configVersion="3bfcae9ad1c3050b70e20c5483aa86d44020d67b"/>
+		<Metadata name="CommonModule.ксп_ПодпискиНаСобытие.Module" id="1f9b58bc-1be6-400f-bd98-735fbbdf3a14.0" configVersion="807599df8d8aa4e5ac50d2fc70f45c95d382dfaf"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный" id="52b557aa-e833-40bd-845e-5e57e90e23cd" configVersion="4bf2808c44ccf9d0aa06070fcbdfa8da00d1b85f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="52b557aa-e833-40bd-845e-5e57e90e23cd.0" configVersion="f99400aeeccc1773894ca82af38fe8a17d77a641"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="464aff82-b0a5-44e7-9e60-d540900aba94" configVersion="afa0bf671d0e92b0172b0906a75653a94b035b71"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="464aff82-b0a5-44e7-9e60-d540900aba94.0" configVersion="ac741c28d9c7eedddc3dacc7edc31dd1da507152"/>
-		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="0e8527dbcaa6cb3cee10574a7471d207a90c0e4b"/>
+		<Metadata name="Configuration.КСП" id="acc24920-f935-41af-bae2-d01d046db124" configVersion="61a79b1d1eeb7e22f8b28a8f3bd76c6b54b167c4"/>
 		<Metadata name="Document.ЗаявкаПокупателя" id="3be59d83-2728-4bd5-acd5-d59447b607ea" configVersion="71adfe32d4e0515961dc0fde1679091b66ed2354"/>
 		<Metadata name="Document.ПланЗаказаКлиентовОпта" id="3e63f1ea-5b00-40e0-b9fd-a64d7c4de374" configVersion="d80089e1015f43f2afa34d0277706ea42578c8da"/>
 		<Metadata name="Document.УстановкаПорядковыхНомеровНоменклатурыДляПоказа" id="db8ee2c8-7639-4d6f-89d7-39d7fe70dadd" configVersion="0744f9011a5741880b6c2f88c14a8bbcdce85eab"/>
 		<Metadata name="Document.УстановкаЦенНоменклатуры" id="8ee59617-c2bb-406e-ab75-52aaa8917f18" configVersion="582d4e9a5d8b359fb7f036c5adf854f39f370880"/>
 		<Metadata name="EventSubscription.ксп_РегистрацияДокументаКВыгрузке" id="0d8f0314-40ca-4ed4-88eb-26af74db3cbf" configVersion="035d06feb9e81399497a620298036000cbc09868"/>
+		<Metadata name="EventSubscription.ксп_РегистрацияСправочникаКВыгрузке" id="e975e853-b6b9-4066-a0e7-e3a011b42b0c" configVersion="9cd6a84e8d2adcca2ea01d3e62562830e60046b4"/>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен" id="b9e4479b-4aee-4767-8c50-12813ea5792d" configVersion="f6a377b303e7f5c2f727929840bba84994ffc406">
 			<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен.Resource.Наименование" id="3ea74e22-1200-4c65-8257-afc96d8b0be7"/>
 			<Metadata name="InformationRegister.ксп_МэппингСправочникВидыЦен.Dimension.GUID" id="546cc22b-41ec-4ba1-a027-3524473b4ffb"/>
@@ -77,7 +78,7 @@
 			<Metadata name="InformationRegister.ксп_МэппингСправочникСезоны.Dimension.ВнешняяСистема" id="ba8c9cf2-fef2-4034-b627-2c3e7ee0ff98"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникСезоны.ManagerModule" id="2fe84883-2080-49a5-a952-c7b7f5440afc.2" configVersion="c1c644df63b9acd77895755c0bb15d6709fb08e9"/>
-		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП" id="28403844-7735-470d-8078-22707b3ae27b" configVersion="efa2359139fc2ee52875a73f7093f8f1e71d3720">
+		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП" id="28403844-7735-470d-8078-22707b3ae27b" configVersion="4a0faaec6c5dd7f5ea9118856bb35a1eac463661">
 			<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.Dimension.ОбъектДляВыгрузки" id="5dc4e991-b0c5-441c-93c2-ef8ccec88a4e"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_ПланОбменаЕРП.ManagerModule" id="28403844-7735-470d-8078-22707b3ae27b.2" configVersion="0344197bf341eaec79dadbed2b70fdece478a589"/>

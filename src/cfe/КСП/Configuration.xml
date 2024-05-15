@@ -69,6 +69,7 @@
 			<CommonModule>ксп_Блокировки</CommonModule>
 			<CommonModule>ксп_ЭкспортСлужебныйПовтИсп</CommonModule>
 			<EventSubscription>ксп_РегистрацияДокументаКВыгрузке</EventSubscription>
+			<EventSubscription>ксп_РегистрацияСправочникаКВыгрузке</EventSubscription>
 			<CommandGroup>ксп_УзелОбменаЕРП</CommandGroup>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Организации</Catalog>
