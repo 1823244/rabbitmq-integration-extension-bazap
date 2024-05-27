@@ -25,6 +25,11 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_СоответствиеДокументовУстановкаЦен</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникСезоны</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникКонтрагенты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ксп_логгер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.мис_логгерСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникВидыНоменклатуры</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникОрганизации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникВидыЦен</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

@@ -68,6 +68,8 @@
 			<CommonModule>ксп_ПодпискиНаСобытие</CommonModule>
 			<CommonModule>ксп_Блокировки</CommonModule>
 			<CommonModule>ксп_ЭкспортСлужебныйПовтИсп</CommonModule>
+			<CommonModule>мис_логгерСервер</CommonModule>
+			<CommonModule>мис_логгерКлиент</CommonModule>
 			<EventSubscription>ксп_РегистрацияДокументаКВыгрузке</EventSubscription>
 			<EventSubscription>ксп_РегистрацияСправочникаКВыгрузке</EventSubscription>
 			<CommandGroup>ксп_УзелОбменаЕРП</CommandGroup>
@@ -81,10 +83,12 @@
 			<Catalog>Сезон</Catalog>
 			<Catalog>Проекты</Catalog>
 			<Catalog>Коллекция</Catalog>
+			<Catalog>ВидыНоменклатуры</Catalog>
 			<Document>ЗаявкаПокупателя</Document>
 			<Document>ПланЗаказаКлиентовОпта</Document>
 			<Document>УстановкаПорядковыхНомеровНоменклатурыДляПоказа</Document>
 			<Document>УстановкаЦенНоменклатуры</Document>
+			<DataProcessor>ксп_логгер</DataProcessor>
 			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
 			<InformationRegister>ксп_ПланОбменаЕРП</InformationRegister>
@@ -96,6 +100,7 @@
 			<InformationRegister>ксп_СоответствиеДокументовУстановкаЦен</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникСезоны</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникКонтрагенты</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникВидыНоменклатуры</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
